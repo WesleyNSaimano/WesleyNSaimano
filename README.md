@@ -12,10 +12,19 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Data Analyst with 2+ years of experience turning messy, complex datasets into clear, actionable insights that drive real business decisions. My work spans three very different and equally demanding industries: healthcare, finance, and property development, which has sharpened my ability to adapt quickly, ask the right questions, and find signal in the noise.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I specialize in:
 
+
+🧹 Data cleaning & validation to ensure accuracy and trust in every report
+📊 Interactive dashboard development in Power BI to make insights accessible to non-technical stakeholders
+🗃️ SQL-driven analysis for querying, transforming, and modeling large datasets
+📈 Financial analysis & risk management, delivering insights that support strategic, data-driven growth
+⚙️ Reporting automation, cutting manual reporting time and improving consistency across teams
+
+
+I love the moment when a wall of raw numbers turns into a dashboard someone can actually use — that's the part of the job I never get tired o
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://wesleynsaimano.github.io/)
