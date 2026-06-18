@@ -18,9 +18,13 @@ I specialize in:
 
 
 🧹 Data cleaning & validation to ensure accuracy and trust in every report
+
 📊 Interactive dashboard development in Power BI to make insights accessible to non-technical stakeholders
+
 🗃️ SQL-driven analysis for querying, transforming, and modeling large datasets
+
 📈 Financial analysis & risk management, delivering insights that support strategic, data-driven growth
+
 ⚙️ Reporting automation, cutting manual reporting time and improving consistency across teams
 
 
@@ -31,9 +35,8 @@ I love the moment when a wall of raw numbers turns into a dashboard someone can 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+ - **Project A:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+
 
 ## 🌱 Currently Learning 
 
